@@ -1,1 +1,1 @@
-# dialectApp
+# Dialect Diversity at Washington University
